@@ -7,4 +7,4 @@
 上傳步驟:
 1.  添加至暫存區: Git add <file> (部分檔案) 或 Git add . (全部檔案)
 2.  傳存區移至本地倉庫: Git commit <file> (部分檔案) 或 Git commit (全部檔案)
-3.  上傳至遠端倉庫: Git push 
+3.  上傳至遠端倉庫: git push --set-upstream <遠端倉庫> <本地倉庫> (設定遠端及本地連結)
